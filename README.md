@@ -1,6 +1,6 @@
 # Hi There, I'm morpho <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
-//[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (morp(111|ho)| morpho-tom)" title="👋 Hi there! I'm (morp(111|ho)|morpho-tom)"/>]//
+<!--[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (morp(111|ho)| morpho-tom)" title="👋 Hi there! I'm (morp(111|ho)|morpho-tom)"/>](url link)-->
 
 
 <div id="header" align="center">
