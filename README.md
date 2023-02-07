@@ -28,27 +28,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <!--![morpho's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=250)](https://github.com/developermithu/github-readme-stats)
 </details>-->
-from turtle import *
-import turtle 
-ws = turtle.Screen()
-ws.bgcolor("black")
-sk = turtle.Turtle()
-sk.color("cyan")
-
-def squarefunc(size):
-	for i in range(4):
-		sk.fd(size)
-		sk.left(90)
-		size = size + 6
-
-squarefunc(7)
-squarefunc(27)
-squarefunc(47)
-squarefunc(67)
-squarefunc(87)
-squarefunc(107)
-squarefunc(127)
-squarefunc(147)
+01110010 01100101 01100001 01101100 00100000 01110000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010 00100000 01100011 01101111 01110101 01101110 01110100 00100000 01100110 01101111 01110010 01101101 00100000 00110000
 
 ----
 ### :hammer_and_wrench: Languages and Tools :
