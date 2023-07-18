@@ -46,5 +46,5 @@
 </div>
 
 <div>
-<p>hai all of u</p>
+<footer>Hai all of u</footer>
 </div>
