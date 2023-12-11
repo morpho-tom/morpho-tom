@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and w3schools read tech articles.
 
-- :mailbox:How to reach me: achappan_k@yahoo.com
+- :mailbox: How to reach me: achappan_k@yahoo.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <!--![morpho's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=250)](https://github.com/developermithu/github-readme-stats)
