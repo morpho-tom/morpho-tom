@@ -26,6 +26,7 @@
 - :mailbox: How to reach me: achappan_k@yahoo.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+<details align="left">
 [morpho's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=250)](https://github.com/developermithu/github-readme-stats)
 </details>
 01110010 01100101 01100001 01101100 00100000 01110000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010 00100000 01100011 01101111 01110101 01101110 01110100 00100000 01100110 01101111 01110010 01101101 00100000 00110000
