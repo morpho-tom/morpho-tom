@@ -45,5 +45,4 @@
 </div>
 
 <div>
-<footer>Hai all of u</footer>
 </div>
