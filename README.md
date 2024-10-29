@@ -21,7 +21,7 @@
 - 🌱 Currently studying as a Software Engineer and building web applications.
 - 🌐 Exploring **Technical Content Writing**.
 - 💡 In my free time, I love problem-solving on **GeeksforGeeks** and reading tech articles.
-- 📫 Reach me at: achappan_k@yahoo.com
+- 📫 Reach me at: achuk233@gmail.com
 
 ---
 
@@ -44,8 +44,8 @@
 ### 🌐 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/achappan-kannan-532254236/) 📘
-- [GitHub Profile](https://github.com/developermithu) 👨‍💻
-- Email: achappan_k@yahoo.com ✉️
+- [GitHub Profile](https://github.com/morpho-tom) 👨‍💻
+- Email: achuk233@gmail.com ✉️
 
 ---
 
