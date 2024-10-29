@@ -1,4 +1,4 @@
-# Hi There, I'm 01101101 01101111 01110010 01110000 01101000 01101111 00101101 01110100 01101111 01101101 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi There, I'm <h2 style="color: #3498db; display: inline;">morpho-tom</h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
